@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Log.d(TAG, "GIF width is " + gifImageView.getGifWidth());
         Log.d(TAG, "GIF height is " + gifImageView.getGifHeight());
       }
-    }.execute("http://katemobile.ru/tmp/sample3.gif");
+    }.execute("https://blog-assets.hootsuite.com/wp-content/uploads/2018/04/Nyan-Cat-GIF-source.gif");
   }
 
 
