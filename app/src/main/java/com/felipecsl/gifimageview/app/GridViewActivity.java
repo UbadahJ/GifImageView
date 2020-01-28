@@ -1,7 +1,7 @@
 package com.felipecsl.gifimageview.app;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.widget.GridView;
 
 import java.util.ArrayList;
